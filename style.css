@@ -1,0 +1,157 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #ff6600;
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+}
+header {
+    background-color: #ff6600;
+    color: white;
+    padding: 40px 0;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #ff6600;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #555;
+}
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff6600;
+}
+/* General */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    background-color: #fff;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ff6600;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff6600;
+}
+
+/* Header */
+header {
+    background-color: #ff6600;
+    color: white;
+    padding: 40px 0;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 90%;
+}
+
+/* Section titles */
+h2 {
+    color: #ff6600;
+}
+
+/* Portfolio Images */
+.portfolio-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.portfolio-images img {
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px 0;
+    color: #555;
+}
+/* Social Buttons */
+.social {
+    margin-top: 20px;
+}
+
+.social a {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 20px;
+    background-color: #25D366;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.social a:last-child {
+    background-color: #E1306C;
+}
+body {
+    line-height: 1.6;
+}
+
+header p {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+section {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    letter-spacing: 1px;
+}
